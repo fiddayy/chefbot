@@ -1,0 +1,5 @@
+streamlit
+openai
+ddgs
+beautifulsoup4
+requests
